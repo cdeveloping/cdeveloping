@@ -15,6 +15,9 @@
 <br>
 <h1>⚙️ My skills</h1>
 
+<p>Estos son algunos de los lenguajes de programación con los que trabajo, algunos todavía los estoy aprendiendo y otros tengo más experiencia.</p>
+<p>Hay alguno como Visual Basic que no lo he incluido ya que no tiene gran utilidad ahora mismo.</p>
+
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=3d3919)
@@ -48,7 +51,7 @@ es Visual Studio Code por su flexibilidad y cantidad de add-ons que nos ayudan a
 
 ## 🛠️ Plataformas Freelance
 <p>Ofezco mis servicios como freelance a través de las siguientes plataformas, podrás acceder a mi perfil pulsando en los botones correspondientes.</p>
-<p>Actualmente no la estoy ofrecido en Fiverr, pero volveré pronto a está plataforma.</p>
+<p>Actualmente no estoy ofreciendo mis servicios en Fiverr de manera temporal, espero volver pronto a la misma.</p>
 
 <a href ="https://www.upwork.com/freelancers/carlospascual" />
 <img alt = "UpWork" src = "https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
