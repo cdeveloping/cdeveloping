@@ -1,9 +1,18 @@
 # <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Carlos!</p>
 
 **Welcome to my profile!**
-<!--
-<img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"/> 
--->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `UX Design` and `Cybersecurity`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity` in  <a href ="https://www.upwork.com/freelancers/carlospascual"> `UpWork` </a>.
+- :boom: You can visit my <a href="https://carlosdeveloping.wordpress.com/"> `blog`</a>.
+<br>
 ## ⚙️ My skills
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
