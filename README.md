@@ -73,6 +73,8 @@ es Visual Studio Code por su flexibilidad y cantidad de add-ons que nos ayudan a
 
 ## Contacto
 
+<p>¿Quieres que hablemos? Aquí te dejo diferentes formas de contactar conmigo.</p>
+
 <a href="mailto:cguillermodev@gmail.com">
 <img alt="eMail" src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
