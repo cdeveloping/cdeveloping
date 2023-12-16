@@ -12,6 +12,7 @@
 - :nerd_face: Siempre estoy `aprendiendo nuevas cosas`.
 - :thinking: Actualmente trabajo como `freelance` en <a href ="https://www.upwork.com/freelancers/carlospascual"> `UpWork` </a>.
 - :boom: Te invito a visitar mi <a href="https://carlosdeveloping.wordpress.com/"> `blog`</a>.
+- 🔖: Porta Puedes ver mi <a href = "https://github.com/cdeveloping/personal-projects/tree/main/portafolio">portafolio</a>.
 <br>
 <h1>⚙️ My skills</h1>
 
