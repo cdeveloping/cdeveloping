@@ -81,9 +81,6 @@ es Visual Studio Code por su flexibilidad y cantidad de add-ons que nos ayudan a
 </a>
 <a href="https://twitter.com/carlosdev12">
 <img alt="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-<a href = "https://carlosdeveloping.wordpress.com/">
-<img alt = "WordPress" src = "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</a>
 <a href="mailto:carlosdeveloper@outlook.es">
 <img alt = "Microsoft Outlook" src ="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
