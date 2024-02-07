@@ -10,8 +10,7 @@
 - :technologist: Me gusta usar el software para resolver los `Problemas`.
 - :student: Actualmente estoy estudiando `UX Design` y `Ciberseguridad`.
 - :nerd_face: Siempre estoy `aprendiendo nuevas cosas`.
-- :thinking: Actualmente trabajo como `freelance` en <a href ="https://www.upwork.com/freelancers/carlospascual"> `UpWork` </a>.
-- :boom: Te invito a visitar mi <a href="https://carlosdeveloping.wordpress.com/"> `blog`</a>.
+- :thinking: Actualmente trabajo como `freelance` en <a href ="https://www.upwork.com/freelancers/carlospascual"> `UpWork` </a> y <a href = "https://www.fiverr.com/carlosux01">`Fiverr`</a>.
 - 🔖: Porta Puedes ver mi <a href = "https://github.com/cdeveloping/personal-projects/tree/main/portafolio">portafolio</a>.
 <br>
 <h1>⚙️ My skills</h1>
