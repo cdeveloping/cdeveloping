@@ -52,13 +52,11 @@ es Visual Studio Code por su flexibilidad y cantidad de add-ons que nos ayudan a
 
 ## 🛠️ Plataformas Freelance
 <p>Ofezco mis servicios como freelance a través de las siguientes plataformas, podrás acceder a mi perfil pulsando en los botones correspondientes.</p>
-<p>Actualmente no estoy ofreciendo mis servicios en Fiverr de manera temporal, espero volver pronto a la misma.</p>
-
 <a href ="https://www.upwork.com/freelancers/carlospascual" />
 <img alt = "UpWork" src = "https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
 </a>
 
-<a href = "#" />
+<a href = "https://www.fiverr.com/carlosux01" />
 <img alt= "Fiverr" src = "https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
