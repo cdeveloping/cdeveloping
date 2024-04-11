@@ -1,3 +1,4 @@
+
 # <p align="center"><h1>Hola soy Carlos y te doy la bienvenida a mi perfil de Github</h1></p>
 
 
@@ -72,7 +73,7 @@ es Visual Studio Code por su flexibilidad y cantidad de add-ons que nos ayudan a
 ##Certificaciones
 <p align = "center">
  Exploración de las tecnologías emergentes
-<picture>![explore-emerging-tech](https://github.com/cdeveloping/cdeveloping/assets/134525703/b425af28-a72f-41ac-85b6-f108af8e7705)</picture>
+ <picture> <img align="right" src="https://github.com/cdeveloping/cdeveloping/assets/134525703/b425af28-a72f-41ac-85b6-f108af8e7705" width = 250px></picture>
 </p>
 
 ## Contacto
