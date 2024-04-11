@@ -73,7 +73,7 @@ es Visual Studio Code por su flexibilidad y cantidad de add-ons que nos ayudan a
 ##Certificaciones
 <p align = "center">
  Exploración de las tecnologías emergentes
- <picture> <img align="right" src="https://github.com/cdeveloping/cdeveloping/assets/134525703/b425af28-a72f-41ac-85b6-f108af8e7705" width = 75px height = 75px></picture>
+ <picture> <img align="center" src="https://github.com/cdeveloping/cdeveloping/assets/134525703/b425af28-a72f-41ac-85b6-f108af8e7705" width = 75px height = 75px></picture>
 </p>
 
 ## Contacto
