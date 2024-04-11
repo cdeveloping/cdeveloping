@@ -69,6 +69,11 @@ es Visual Studio Code por su flexibilidad y cantidad de add-ons que nos ayudan a
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdeveloping&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </p>
 
+##Certificaciones
+<p align = "center">
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a8c9e457-2d97-45b9-85da-3e24005a946a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
+
 ## Contacto
 
 <p>¿Quieres que hablemos? Aquí te dejo diferentes formas de contactar conmigo.</p>
