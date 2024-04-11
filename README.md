@@ -71,7 +71,8 @@ es Visual Studio Code por su flexibilidad y cantidad de add-ons que nos ayudan a
 
 ##Certificaciones
 <p align = "center">
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a8c9e457-2d97-45b9-85da-3e24005a946a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ Exploración de las tecnologías emergentes
+![explore-emerging-tech](https://github.com/cdeveloping/cdeveloping/assets/134525703/b425af28-a72f-41ac-85b6-f108af8e7705)
 </p>
 
 ## Contacto
